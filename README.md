@@ -16,7 +16,7 @@ Olá, sou Vitória 👋, uma entusiasta do mundo da programação e atualmente e
 
 Front-end: HTML5, CSS3, JavaScript, ReactJS, Angular.
 
-Back-end: Node.js, Java, Spring Boot.
+Back-end: Java, Spring Boot.
 
 Banco de Dados: MongoDB, MySQL.
 
