@@ -18,7 +18,7 @@ Front-end: HTML5, CSS3, JavaScript, ReactJS, Angular.
 
 Back-end: Java, Spring Boot.
 
-Banco de Dados: MongoDB, MySQL.
+Banco de Dados: MongoDB, MySQL, MariaDB, PostgreSql, MySql.
 
 Ferramentas: Git, VSCode, Postman.
 
