@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vitória Luz</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vit%C3%B3ria-luz-alves-d%E2%80%99-abadia-600573239/)](https://www.linkedin.com/in/vit%C3%B3ria-luz-alves-d%E2%80%99-abadia-600573239/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-4CAF50?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vit%C3%B3ria-luz-alves-d%E2%80%99-abadia-600573239/)](https://www.linkedin.com/in/vit%C3%B3ria-luz-alves-d%E2%80%99-abadia-600573239/)
 [![Gmail Badge](https://img.shields.io/badge/-contato@vitorialuz.com-00A878?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorialuz831@gmail.com)](mailto:vitorialuz831@gmail.com)
 
 👩‍💻 Desenvolvedora Web Aspirante | Estudante Full Stack | Estudante Engenharia de Software
