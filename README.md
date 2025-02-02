@@ -97,7 +97,7 @@ Olá, sou Vitória, uma entusiasta do mundo da programação e atualmente estou 
 **📦 Containerização:**
 <br>
 <br>
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) Sera que tem como formatar em duas colunas? 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorialuz229&theme=radical&layout=compact&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
