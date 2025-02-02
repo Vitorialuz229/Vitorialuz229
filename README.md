@@ -98,6 +98,8 @@ Olá, sou Vitória, uma entusiasta do mundo da programação e atualmente estou 
 <br>
 <br>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) Sera que tem como formatar em duas colunas? 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorialuz229&theme=radical&layout=compact&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 Estou animada para fazer parte da comunidade de desenvolvimento e crescer junto com ela! Se tiver alguma dica ou sugestão, sinta-se à vontade para compartilhar. Vamos codar juntos! 🚀✨
