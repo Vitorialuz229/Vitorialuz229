@@ -42,6 +42,21 @@ Olá, sou Vitória, uma entusiasta do mundo da programação e atualmente estou 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+**🔐 Autenticação e Segurança:** 
+<br>
+<br>
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Bearer Token](https://img.shields.io/badge/Bearer%20Token-000000?style=for-the-badge&logo=jwt&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-5A2B2D?style=for-the-badge&logo=oauth&logoColor=white)
+
+**🔧 Ferramentas de Build e Gerenciamento de Pacotes**
+<br>
+<br>
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ### **Banco de Dados:**
 
